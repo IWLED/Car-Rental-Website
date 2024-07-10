@@ -151,13 +151,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`Id`, `Username`, `Email`, `Password`) VALUES
 (1, 'test', 'test@test', 'test'),
-(19, 'Waleed Alharbi', 'w444led@gmail.com', '$2y$10$mmLofe0NYJHgEPCmhrB10.AX.I0LRku79AabXzQiNJSg5owSbVYpy'),
-(20, 'Waleed Alharbi', '443229420@tvtc.edu.sa', '$2y$10$f5ZXsIbKyl/bz.dbydPixuhoBYSxkEPnthsToAngv90RP2VUj9YGK'),
-(21, 'وليد حمد الحربي', 'test@a', '$2y$10$W3AxVeFB8lgEYUMsLLru7eShK75q0r6KPzUEvOkZy6Rcs.4GWK.Km'),
-(22, 'test', 'test@w', '$2y$10$ES2Lk6ACziQ90LvMZ54Cq.htXsfIP1WpGAyXUJYhHupY11zYHNXA.'),
-(23, 'وليد حمد الحربي', 'z.nucii@gmail.com', '$2y$10$3Lq3T/pR8KONxmL7mog8feymthLP5B9vhYJ38XqXyYjj9iV2zorou'),
-(24, 'يوسف العسيري', 'yousef@gmail.com', '$2y$10$ZPm8yozASucPXztASzOsquk3xtfPSjuiGrbznt39kYXJXlv7TpBZ.'),
-(25, 'test', 'test@t', '$2y$10$GnlnylHuzJouPGmyguEja.UQDaFhYvlxERcCnHhlx8RV2MUIPKRWm');
+
 
 --
 -- Indexes for dumped tables
